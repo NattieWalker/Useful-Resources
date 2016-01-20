@@ -1,0 +1,63 @@
+Books
+
+ 
+List from Venkata Ramana Sanaka on Quora
+1. CLRS - The classic comprehensive text book on algorithms. A must read atleast once in programmer's career.
+
+2. Introduction to Algorithms: A Creative Approach by Udi Manber - An excellent book on various algorithm categories. Many interesting questions on web portals as interview questions can be found in this book. Chapter end exercises are an asset. One must attempt the "Creative Problems" section at the end of every chapter. If a programmer wants to know the power of induction as problem solving approach, he must read this book. Strongly recommended.
+
+3. The Algorithm Design Manual by Skiena - Lots of algorithmic problems, and discussions, war stories, related problems, interesting exercises. It helps in modeling a problem in different ways. A must work book for every passionate programmer. Don't read this unless you have good insight into algorithms.
+
+4. Algorithms by Das Gupta - Precise book on few algorithmic categories, pick any chapter based on interest and attempt end of chapter exercises.
+
+5. Algorithms 4e by Sedgewick - Relatively beginner level book, covers graphs, strings, hashing, searching, sorting, etc. very well. It follows OOP approach in Java. Strongly recommended for beginners, though nothing stops a professional. Web portal containing plenty of interesting exercises. There are other books by Sedgewick on Algorithms. Recommended for data structure learning.
+
+6. Introduction to Design and Analysis of Algorithms by Levitin - An introductory book in algorithm design. Recommended for beginners. One can enjoy the explanation and solving end of section exercises.
+
+On Programming Style:
+1. Programming Pearls by Bentley - A must read book on design and implementation of computer programs.
+
+2. The Practice of Programming by Kernighan - Written during Unix days, still one of the best resource on program design and implementation principles.
+
+3. Advanced Programming in the Unix Environment by W. Richard Stevens - It covers many Unix internals and kernel level API. It follows an excellent programming style. Stevens books are one of the best in their category. I would say, they stand at the level of CLRS in algorithms category. Highly recommended.
+
+List from Daniel Marchena Parreira on Quora
+1) Programming Pearls (2nd Edition): Jon Bentley: 0785342657883: Amazon.com: Books --> Programming Pearls
+
+2) Introduction to Algorithms: A Creative Approach: Udi Manber: 9780201120370: Amazon.com: Books --> Introduction to algorithms: a creative approach (is this the book???)
+
+3) Introduction to Algorithms: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein: 9780262033848: Amazon.com: Books --> Introduction to algoritms by Cormen
+
+4) The Algorithm Design Manual: Steven S. Skiena: 9781849967204: Amazon.com: Books --> Algorithm Design
+
+My suggestions:
+5) Algorithms (4th Edition): Robert Sedgewick, Kevin Wayne: 9780321573513: Amazon.com: Books --> Algorithms (4th Edition)
+
+6) Cracking the Coding Interview: 150 Programming Questions and Solutions: Gayle Laakmann McDowell: 9780984782802: Amazon.com: Books --> Cracking the Coding Interview (problem solving)
+
+7) Amazon.com: Art of Computer Programming, Volume 1: Fundamental Algorithms (3rd Edition) (0785342896831): Donald E. Knuth: Books --> Donald E. Knuth trilogy
+
+--> Algorithms: Where can I learn more about cool (novel?) data structures and algorithms?
+
+
+
+List from Vignesh Narayanan on Quora
+In my opinion, I would suggest:
+1)Cracking the Coding Interview: 150 Programming Questions and Solutions by Gayle Laakmann
+2) Coding Interview Questions by Narasimha Karumanchi 
+3) Algorithm Design by Kleinberg and Tardos
+
+WebSites
+
+1. http://www.brpreiss.com/books/opus5/
+2. http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html
+3. https://leetcode.com/problemset/algorithms/
+4. http://www.fromdev.com/2013/12/Best-Algorithms-Books.html  (Use this site for other resources)
+
+
+PDF Books
+Intro to Algorithms 2nd Edition  http://www.mif.vu.lt/~valdas/ALGORITMAI/LITERATURA/Cormen/Cormen.pdf
+
+Intro to Algorithms 3rd Edition http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf
+
+How to Solve it by Computer https://mrajacse.files.wordpress.com/2012/08/how-to-solve-it-by-computer-r-g-dromey-for-unit-1.pdf
